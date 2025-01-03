@@ -2,6 +2,7 @@
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="이미지1_URL" alt="F1-Tenth 마크 사진" style="width: 45%;">
-    <img src="이미지2_URL" alt="F1-Tenth 마크 사진" style="width: 45%;">
+    <img src="https://github.com/IdeaLabGNU-F1TENTH/.github/blob/main/_images/f1tenth_mark.png" alt="F1-Tenth 마크 사진" style="width: 33%;">
+    <img src="https://github.com/IdeaLabGNU-F1TENTH/.github/blob/main/_images/IDEALAB_MARK_SQUARE.png" alt="IDEALAB사진" style="width: 33%;">
+    <img src="https://github.com/IdeaLabGNU-F1TENTH/.github/blob/main/_images/gnu_mark.png" alt="GNU 학교 사진" style="width: 33%;">
 </div>
